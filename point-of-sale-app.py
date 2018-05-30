@@ -77,7 +77,7 @@ print("ORIGINAL ARAFAT GROCERY STORE")
 print("--------------------------------")
 
 print("Web: www.originalarafat.com")
-print("Phone: 1.646.491.0920")
+print("Phone: 1.646.555.0920")
 print("Checkout Time: ", datetime.datetime.now().strftime("%Y-%m-%d %H:%m:%S"))
 
 print("--------------------------------")
