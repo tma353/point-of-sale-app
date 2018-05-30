@@ -1,6 +1,7 @@
 
 #shopping_cart.py
 #Stern Python IT course Summer 2018
+#referenced a few other projects submissions
 #Author:tma353
 
 products = [
