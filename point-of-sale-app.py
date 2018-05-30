@@ -1,9 +1,4 @@
 
-# coding: utf-8
-
-# In[4]:
-
-
 #shopping_cart.py
 #Stern Python IT course Summer 2018
 #Author:tma353
